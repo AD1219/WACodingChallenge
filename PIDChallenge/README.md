@@ -8,4 +8,4 @@ Points of Difficulty:
 
 Takeaways:
 - Better Understanding of Jupyter Notebook environment as a whole
-- Understanding different controllers and how different values affect reaching the optimal state
+- Understanding different controllers and how different values affect reaching the optimal/desired state
