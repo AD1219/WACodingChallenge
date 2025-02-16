@@ -1,4 +1,4 @@
-#Merge Arrays in ROS2
+# Merge Arrays in ROS2
 
 How I ran my project: 
 - In my original terminal:
